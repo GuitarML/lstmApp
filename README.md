@@ -1,4 +1,4 @@
-# lstm-app
+# lstmApp
 
 A standalone executable for running [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) models on wav files
 using frugally-deep. This was created in the process of developing
