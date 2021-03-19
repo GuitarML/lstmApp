@@ -59,3 +59,5 @@ Then run the conversion on your GuitarLSTM trained .h5 model as instructed in [F
 Use the newly created .json file with lstm_app.exe to run the model on a properly formatted 
 wav file (44.1k samplerate, mono, and float32 format wav)
 
+Note: The .json file created here is only compatible with the Frugally-Deep interface, and will not run in SmartGuitarAmp or SmartAmpPro plugins.
+
